@@ -1,11 +1,11 @@
-#1 Main Header
+# Main Header
 
-#2 Second
+## Second
 
-#3 Hello
+### Hello
 
-#4 That 4th
+#### That 4th
 
-#5 Is it too small
+##### Is it too small
 
-#6 That's the smaller
+###### That's the smaller
