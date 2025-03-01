@@ -1,4 +1,6 @@
-a new change was added
+a new change was added to index.md
+and a new branch was created
+
 - [x] Turn on GitHub Pages
 - [ ] Outline my portfolio
 - [ ] Introduce myself to the world
