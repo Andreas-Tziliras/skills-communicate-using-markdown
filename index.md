@@ -1,4 +1,21 @@
+$ git init
+
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+```
+select * FROM tSomeTable
+```
+
 # Main Header
+
+``` javascript
+var myVar = "Hello, world!";
+```
 
 ## Second
 
